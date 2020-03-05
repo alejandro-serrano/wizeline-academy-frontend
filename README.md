@@ -2,7 +2,7 @@
 This repository contains a practice of what we learned in the Wizeline FullStack QA Certification Day 1.
 
 ### Getting Started
-1. Ensure that [Node.js] (https://nodejs.org/en/) and npm are installed on your computer.
+1. Ensure that [Node.js](https://nodejs.org/en/) and npm are installed on your computer.
 2. Clone this repository or download the zip with the source code in to your local system.
 ```
 git clone https://github.com/alejandro-serrano/wizeline-academy-frontend.git
