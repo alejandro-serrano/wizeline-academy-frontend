@@ -19,5 +19,8 @@ npm install -g testcafe
 testcafe chrome src\saucedemo\tests\*.js
 ```
 
+### Demo
+![](demo/alejandro-serrano-frontend-challenge.gif)
+
 ### Areas to improve
 I'm still learning JS, I have struggled when trying to implement other design patterns like Factory or Command or even something simpler as inheritance in this language. Hopefully, next version will be better.
