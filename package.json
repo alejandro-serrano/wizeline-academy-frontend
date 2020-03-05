@@ -1,0 +1,22 @@
+{
+  "name": "wizeline-academy-frontend",
+  "version": "1.0.0",
+  "description": "Wizeline Academy FrontEnd Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandro-serrano/wizeline-academy-frontend.git"
+  },
+  "author": "Alejandro Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandro-serrano/wizeline-academy-frontend/issues"
+  },
+  "homepage": "https://github.com/alejandro-serrano/wizeline-academy-frontend#readme",
+  "dependencies": {
+    "testcafe": "^1.8.2"
+  }
+}
