@@ -1,5 +1,4 @@
-## wizeline-academy-frontend
-Wizeline FullStack QA Certification - Front End - TestCafe
+## Wizeline FullStack QA Certification - Front End - TestCafe
 This repository contains a practice of what we learned in the Wizeline FullStack QA Certification Day 1.
 
 ### Getting Started
