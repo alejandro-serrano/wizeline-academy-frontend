@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alejandro-serrano/wizeline-academy-frontend#readme",
   "dependencies": {
-    "testcafe": "^1.8.2"
+    "testcafe": "^1.20.1"
   }
 }
